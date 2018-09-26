@@ -4,6 +4,8 @@ The code in this repository is a part of the work which I did during my Bachelor
 
 For a detailed description of the algorithm and the methodology, please refer to my paper which has been accepted and published by IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2018. This can be found on the SPIRE Lab webpage. You can also access the presentation which I used to present at ICASSP 2018. We used the TIMIT-rtMRI database for this study. For detailed performance statistics or possible extension to other datasets please contact me at: advaitkoparkar@gmail.com
 
+Paper Link: https://ieeexplore.ieee.org/document/8462412
+
 ## Algorithm Overview
 The algorithm predicts air tissue boundaries in 5 parts and then combines them to form continuous upper and lower contours
 ![ovr](https://user-images.githubusercontent.com/21837899/43767576-1c32f69c-9a53-11e8-9b09-68482b00ead4.png)
